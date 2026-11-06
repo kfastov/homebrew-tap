@@ -1,8 +1,8 @@
 class Tgcli < Formula
   desc "Telegram CLI + MCP server"
   homepage "https://github.com/kfastov/tgcli"
-  url "https://registry.npmjs.org/@kfastov/tgcli/-/tgcli-2.2.5.tgz"
-  sha256 "aff76dcd460b40f956780139823a5e746708856850698c754f1d0b36d38cc5b5"
+  url "https://registry.npmjs.org/@kfastov/tgcli/-/tgcli-2.3.0.tgz"
+  sha256 "d8f4d42d086a4f77a4d7c7fb504c1d15b3821bec0f89dd9f021ecb2e0c99bebc"
   license "MIT"
 
   depends_on "node@22"
